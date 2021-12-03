@@ -1,13 +1,8 @@
 <div align="center">
-<h1><h1/>
-  <p><i>.</i><p>
-</div>
-
-<div align="center">
 <h2>GraphQL This File</h2>
 <p>
   <i>
-    GraphQL / TypeScript / Express  Boilerplate
+    GraphQL / TypeScript / Express  Boilerplate.
   <i>
 </p>
 </div>
