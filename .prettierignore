@@ -1,0 +1,13 @@
+build
+dist
+docs
+*.md
+config.json
+.eslintrc.json
+package.json
+*.html
+*.txt
+.cache
+yarn.lock
+public
+.yarn
